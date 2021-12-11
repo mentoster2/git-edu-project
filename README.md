@@ -1,2 +1,2 @@
 # git-edu-project
-edu project
+Учебный проект по гиту
